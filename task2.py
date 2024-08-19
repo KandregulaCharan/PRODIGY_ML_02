@@ -4,7 +4,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('C:/Users/admin/New folder/customer_purchase_history.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/KandregulaCharan/PRODIGY_ML_02/main/mall_customer.py')
 
 print("Data Head:")
 print(df.head())

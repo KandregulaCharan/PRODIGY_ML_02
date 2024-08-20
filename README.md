@@ -1,1 +1,2 @@
-By using k-means algorithm cluster the Customer Purchase History
+By using k-means algorithm clustering the Customer Purchase History
+
